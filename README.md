@@ -38,13 +38,13 @@
       </tr>
     </thead>
     <tbody>
-      <tr>
-	        <td><a  href="https://github.com/Ashirvad121/J.Crew---Unit-2" target="_blank"><b> J.Crew clone</b></a></td>
-           <td><a  href="https://resonant-puppy-8f1ee8.netlify.app/" target="_blank"><b> J.Crew Live</b></a></td>
+       <tr>
+	   <td><a  href="https://github.com/Ashirvad121/J.Crew---Unit-2" {:target="_blank" rel="noopener"}><b> J.Crew clone</b></a></td>
+           <td><a  href="https://resonant-puppy-8f1ee8.netlify.app/" {:target="_blank" rel="noopener"}><b> J.Crew Live</b></a></td>
        </tr>
        <tr>
-        <td><a target="_blank" href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
-         <td><a target="_blank" href="https://playful-biscochitos-3f878c.netlify.app/"><b> BeautyBebo Live</b></a></td>
+          <td><a {:target="_blank" rel="noopener"} href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
+          <td><a {:target="_blank" rel="noopener"} href="https://playful-biscochitos-3f878c.netlify.app/"><b> BeautyBebo Live</b></a></td>
       </tr>
        </tbody>
   </table>
