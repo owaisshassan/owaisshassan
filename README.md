@@ -24,9 +24,33 @@
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png"  alt="html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-flat-juicy-fish/2x/external-css-coding-and-development-flat-flat-juicy-fish.png" alt="css3" width="50" height="50"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank" rel="noreferrer"> <img src="https://image.shutterstock.com/image-vector/java-programming-language-art-logo-260nw-2097680263.jpg" alt="java" width="45" height="50"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/SQL" target="_blank" rel="noreferrer"> <img src="https://cdn-icons.flaticon.com/png/128/4726/premium/4726022.png?token=exp=1660733486~hmac=1437002f58516150c540806b2387e9fd" alt="sql" width="50" height="50"/> </a></p>
 
-
+<h3 align="left" >My Github overview: </h3>
 <p align="left" width="100" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img  display="flex"  src="https://github-profile-trophy.vercel.app/?username=owaisshassan&column=6&margin-w=15&margin-h=15&theme=onedark" alt="owaisshassan" /></a> </p>
 
+## Some Of My Best Projects 🚀-
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+         <td><b> ♦️Live </b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	        <td><a href="https://github.com/Ashirvad121/J.Crew---Unit-2"><b> J.Crew clone</b></a></td>
+           <td><a href="https://resonant-puppy-8f1ee8.netlify.app/"><b> J.Crew Live</b></a></td>
+       </tr>
+       <tr>
+        <td><a href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
+         <td><a href="https://playful-biscochitos-3f878c.netlify.app/"><b> BeautyBebo Live</b></a></td>
+      </tr>
+       </tbody>
+  </table>
+<i>Loved the project? Please consider [donating](https://paypal.me/ovee123) to help it improve!</i>
+
+<h3 align="left" >My Github stats: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaisshassan&show_icons=true&locale=en&layout=compact" alt="owaisshassan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=owaisshassan&show_icons=true&locale=en" alt="owaisshassan" width="400"/></p>
