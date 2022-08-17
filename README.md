@@ -39,16 +39,19 @@
     </thead>
     <tbody>
        <tr>
-	   <td><a  href="https://github.com/Ashirvad121/J.Crew---Unit-2" {:target="_blank" rel="noopener"}><b> J.Crew clone</b></a></td>
-           <td><a  href="https://resonant-puppy-8f1ee8.netlify.app/" {:target="_blank" rel="noopener"}><b> J.Crew Live</b></a></td>
+	   <td><a  href="https://github.com/Ashirvad121/J.Crew---Unit-2" ><b> J.Crew clone</b></a></td>
+           <td><a  href="https://resonant-puppy-8f1ee8.netlify.app/" ><b> J.Crew Live</b></a></td>
        </tr>
        <tr>
-          <td><a {:target="_blank" rel="noopener"} href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
-          <td><a {:target="_blank" rel="noopener"} href="https://playful-biscochitos-3f878c.netlify.app/"><b> BeautyBebo Live</b></a></td>
+          <td><a  href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
+          <td><a  href="https://playful-biscochitos-3f878c.netlify.app/"><b> BeautyBebo Live</b></a></td>
       </tr>
        </tbody>
   </table>
-<i>Loved the project? Please consider [donating](https://paypal.me/ovee123) to help it improve!</i>
+  
+  <p><i>Note: use (CTRL + CLICK) to open in new tab.</i></p>
+  
+<i>Loved the project? Please consider donating (https://paypal.me/ovee123) to help it improve!</i>
 
 <h3 align="left" >My Github stats: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owaisshassan&show_icons=true&locale=en&layout=compact" alt="owaisshassan" /></p>
