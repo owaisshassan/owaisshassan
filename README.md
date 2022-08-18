@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently pursuing ***Full Stack Web Development at Masai School***
 
-- 👨‍💻See my Portfolio at <a target="_blank" href="https://poetic-pie-e07169.netlify.app/" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://github.com/owaisshassan" height="40" width="40" /></a>
+- 👨‍💻See my Portfolio at <a target="_blank" href="https://poetic-pie-e07169.netlify.app/" ><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://github.com/owaisshassan" height="40" width="40" /></a>
 
 - 😄 Pronouns: ...***He/Him***
 - 💬 Ask me about ***HTML, CSS, JAVASCRIPT ,SQL, JAVA***
@@ -19,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/owaiss-hassan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/owaiss-hassan/" height="30" width="40" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/owaiss-hassan/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/owaiss-hassan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png"  alt="html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/external-flat-juicy-fish/2x/external-css-coding-and-development-flat-flat-juicy-fish.png" alt="css3" width="50" height="50"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/Java" target="_blank" rel="noreferrer"> <img src="https://image.shutterstock.com/image-vector/java-programming-language-art-logo-260nw-2097680263.jpg" alt="java" width="45" height="50"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/SQL" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101388764/185338546-e7ce22d1-f03a-4596-83b9-0112e5f22420.png" alt="sql" width="50" height="50"/> </a></p>
+<p align="left"> <a target="_blank" href="https://www.w3.org/html/"  rel="noreferrer"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png"  alt="html5" width="50" height="50"/> </a><a target="_blank" href="https://www.w3schools.com/css/" rel="noreferrer"> <img src="https://img.icons8.com/external-flat-juicy-fish/2x/external-css-coding-and-development-flat-flat-juicy-fish.png" alt="css3" width="50" height="50"/> </a><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/Java"  rel="noreferrer"> <img src="https://image.shutterstock.com/image-vector/java-programming-language-art-logo-260nw-2097680263.jpg" alt="java" width="45" height="50"/> </a><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/SQL" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101388764/185338546-e7ce22d1-f03a-4596-83b9-0112e5f22420.png" alt="sql" width="50" height="50"/> </a></p>
 
 <h3 align="left" >My Github overview: </h3>
 <p align="left" width="100" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img  display="flex"  src="https://github-profile-trophy.vercel.app/?username=owaisshassan&column=6&margin-w=15&margin-h=15&theme=onedark" alt="owaisshassan" /></a> </p>
@@ -41,22 +41,22 @@
     </thead>
     <tbody>
        <tr>
-	   <td><a  href="https://github.com/Ashirvad121/J.Crew---Unit-2" ><b> J.Crew clone</b></a></td>
-           <td><a  href="https://resonant-puppy-8f1ee8.netlify.app/" ><b> J.Crew Live</b></a></td>
+	   <td><a target="_blank"  href="https://github.com/Ashirvad121/J.Crew---Unit-2" ><b> J.Crew clone</b></a></td>
+           <td><a target="_blank"  href="https://resonant-puppy-8f1ee8.netlify.app/" ><b> J.Crew Live</b></a></td>
        </tr>
        <tr>
-          <td><a  href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
-          <td><a  href="https://playful-biscochitos-3f878c.netlify.app/"><b> BeautyBebo Live</b></a></td>
+          <td><a target="_blank"  href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
+          <td><a target="_blank"  href="https://playful-biscochitos-3f878c.netlify.app/"><b> BeautyBebo Live</b></a></td>
       </tr>
         </tr>
        <tr>
-          <td><a  href="https://github.com/owaisshassan/MyYoutube2"><b>Owaisun Youtube2</b></a></td>
-          <td><a  href="https://delicate-truffle-698870.netlify.app/"><b> Owaisun Youtube2 Live</b></a></td>
+          <td><a target="_blank"  href="https://github.com/owaisshassan/MyYoutube2"><b>Owaisun Youtube2</b></a></td>
+          <td><a target="_blank"  href="https://delicate-truffle-698870.netlify.app/"><b> Owaisun Youtube2 Live</b></a></td>
       </tr>
         </tr>
        <tr>
-          <td><a  href="https://github.com/owaisshassan/MyMiniFoodApp"><b> MyMiniFoodApp</b></a></td>
-          <td><a  href="https://astonishing-pony-72963d.netlify.app/"><b> MyMiniFoodApp Live</b></a></td>
+          <td><a target="_blank"  href="https://github.com/owaisshassan/MyMiniFoodApp"><b> MyMiniFoodApp</b></a></td>
+          <td><a target="_blank"  href="https://astonishing-pony-72963d.netlify.app/"><b> MyMiniFoodApp Live</b></a></td>
       </tr>
        </tbody>
   </table>
