@@ -1,7 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Owaiss Hassan</h1><img align="right" src="https://media-exp1.licdn.com/dms/image/C4E03AQENU4TsAAUoAA/profile-displayphoto-shrink_400_400/0/1649230653948?e=1666224000&v=beta&t=CQrGKoURAuLv1YOX2PhmffWVSTIhIrub0BCnwGu62jg" alt="owaiss" height="240" width="240" />
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
 
+<h1 align="center">Hi 👋, I'm Owaiss Hassan</h1>
+
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<img align="right" src="https://user-images.githubusercontent.com/101388764/185340889-4ed8dcc4-b5d4-4001-97a0-9ce8057c4c56.jpg" alt="owaiss" height="240" width="240" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisshassan&label=Profile%20views&color=0e75b6&style=flat" alt="owaisshassan" /> </p>
 
