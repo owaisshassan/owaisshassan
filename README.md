@@ -40,14 +40,14 @@
       </tr>
     </thead>
     <tbody>
+     <tr>
+          <td><a target="_blank"  href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
+          <td><a target="_blank"  href="https://playful-biscochitos-3f878c.netlify.app/"><b> BeautyBebo Live</b></a></td>
+      </tr>
        <tr>
 	   <td><a target="_blank"  href="https://github.com/Ashirvad121/J.Crew---Unit-2" ><b> J.Crew clone</b></a></td>
            <td><a target="_blank"  href="https://resonant-puppy-8f1ee8.netlify.app/" ><b> J.Crew Live</b></a></td>
        </tr>
-       <tr>
-          <td><a target="_blank"  href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
-          <td><a target="_blank"  href="https://playful-biscochitos-3f878c.netlify.app/"><b> BeautyBebo Live</b></a></td>
-      </tr>
         </tr>
        <tr>
           <td><a target="_blank"  href="https://github.com/owaisshassan/MyYoutube2"><b>Owaisun Youtube2</b></a></td>
