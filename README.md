@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Owaiss Hassan</h1>
 
-<h3 align="center">Aspiring Java backend developer</h3>
+<h3 align="center">Java backend developer</h3>
 <img align="right" src="https://user-images.githubusercontent.com/101388764/185340889-4ed8dcc4-b5d4-4001-97a0-9ce8057c4c56.jpg" alt="owaiss" height="240" width="240" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisshassan&label=Profile%20views&color=0e75b6&style=flat" alt="owaisshassan" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently pursuing ***Java backend Development at Masai School***
 
-- 👨‍💻See my Portfolio at <a target="_blank" href="https://owaiss-portfolio.netlify.app/" ><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://github.com/owaisshassan" height="40" width="40" /></a>
+- 👨‍💻See my Portfolio at➡️ <a target="_blank" href="https://owaiss-portfolio.netlify.app/" ><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://github.com/owaisshassan" height="40" width="40" /></a>
 
 - 😄 Pronouns: ...***He/Him***
 - 💬 Ask me about ***HTML, CSS, JAVASCRIPT ,SQL, JAVA***
