@@ -34,11 +34,12 @@
 	<img src="https://img.shields.io/badge/Spring Boot-yellow?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot"/> 
 	<img src="https://img.shields.io/badge/Hibernate-grey?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
 	<img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge&logo=JDBC&logoColor=white" alt="JDBC"/> 
+	<img src="https://img.shields.io/badge/Rest API-ocean?style=for-the-badge&logo=Rest API&logoColor=white" alt="Rest API"/> 
+	<img src="https://img.shields.io/badge/SQL-crimson?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/>
 	<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/> 
 	<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
 	<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" />
 	<img src="https://img.shields.io/badge/Mysql-purple?style=for-the-badge&logo=Mysql&logoColor=white" alt="Mysql"/> 
-	
 </p>
 
 <h3 align="left" >My Github overview: </h3>
