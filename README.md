@@ -32,6 +32,7 @@
 	<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/> 
 	<img src="https://img.shields.io/badge/Maven-pink?style=for-the-badge&logo=maven&logoColor=white" alt="Maven"/> 
 	<img src="https://img.shields.io/badge/Spring Boot-yellow?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot"/> 
+	<img src="https://img.shields.io/badge/JPQL-aqua?style=for-the-badge&logo=JPQL&logoColor=white" alt="JPQL" />
 	<img src="https://img.shields.io/badge/Hibernate-grey?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
 	<img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge&logo=JDBC&logoColor=white" alt="JDBC"/> 
 	<img src="https://img.shields.io/badge/Rest API-ocean?style=for-the-badge&logo=Rest API&logoColor=white" alt="Rest API"/> 
