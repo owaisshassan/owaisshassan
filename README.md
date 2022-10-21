@@ -9,13 +9,17 @@
 
 
 
-- 🌱 I’m currently pursuing ***Java backend Development at Masai School***
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Spring Boot</strong>   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a></li>
 
-- 👨‍💻See my Portfolio at ➡<a target="_blank" href="https://owaisshassan.github.io/" ><img align="center" src="https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png" alt="https://github.com/owaisshassan" height="40" width="40" /></a>
+<li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Checkout my <a href="https://owaisshassan.github.io/" rel="nofollow">Portfolio</a>   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a></li>
 
-- 😄 Pronouns: ...***He/Him***
-- 💬 Ask me about ***HTML, CSS, JAVASCRIPT ,SQL, JAVA***
-- 📫 How to reach me ***owaishassan442@gmail.com***
+<li><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png"><img width="20" src="https://user-images.githubusercontent.com/66555692/190847273-1a125e30-6bb9-4221-916f-47ef6d774f58.png" style="max-width: 100%;"></a> Checkout my <a href="https://drive.google.com/file/d/18fYaoUlc6iGfVBjWSu_mTSkv79W2LdF9/view?usp=sharing" rel="nofollow">Resume</a>   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a></li>
+
+<li>💬</g-emoji> Ask me about <strong>Java , Hibernate</strong>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a></p>
+</li>
+
+<li>📫</g-emoji> How to reach me <strong><a href="mailto:owaishassan442@gmail.com">owaishassan442@gmail.com</strong>   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a></p>
+</li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +27,19 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/Java"  rel="noreferrer"> <img src="https://prod-acb5.kxcdn.com/wp-content/uploads/2018/02/spring-icon-200x196.png" alt="Spring" width="50" height="50"/>  </a><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/Java"  rel="noreferrer">  <img src="https://camo.githubusercontent.com/70cb713def18e826d8ac403c317ce01f897bfec8b157f76a778a9bbb9f315cab/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6a6176612d36302d313137343935332e706e67" alt="java" width="70" height="55"/> </a><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/Java"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/c43b6695-1aa6-446f-8ce1-38817b0deaa1_eyecatch-maven.png" alt="maven" width="56" height="56"/>  </a> <a target="_blank" href="https://www.w3.org/html/"  rel="noreferrer"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/2x/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png"  alt="html5" width="50" height="50"/> </a><a target="_blank" href="https://www.w3schools.com/css/" rel="noreferrer"> <img src="https://img.icons8.com/external-flat-juicy-fish/2x/external-css-coding-and-development-flat-flat-juicy-fish.png" alt="css3" width="50" height="50"/> </a><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/Java"  rel="noreferrer"> <img src="https://image.shutterstock.com/image-vector/java-programming-language-art-logo-260nw-2097680263.jpg" alt="java" width="45" height="50"/> </a><a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/SQL" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/101388764/185338546-e7ce22d1-f03a-4596-83b9-0112e5f22420.png" alt="sql" width="50" height="50"/> </a></p>
+<p align="left">
+	<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+	<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/> 
+	<img src="https://img.shields.io/badge/Maven-pink?style=for-the-badge&logo=maven&logoColor=white" alt="Maven"/> 
+	<img src="https://img.shields.io/badge/Spring Boot-yellow?style=for-the-badge&logo=Spring Boot&logoColor=white" alt="Spring Boot"/> 
+	<img src="https://img.shields.io/badge/Hibernate-grey?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
+	<img src="https://img.shields.io/badge/JDBC-red?style=for-the-badge&logo=JDBC&logoColor=white" alt="JDBC"/> 
+	<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript"/> 
+	<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
+	<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" />
+	<img src="https://img.shields.io/badge/Mysql-purple?style=for-the-badge&logo=Mysql&logoColor=white" alt="Mysql"/> 
+	
+</p>
 
 <h3 align="left" >My Github overview: </h3>
 <p align="left" width="100" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img  display="flex"  src="https://github-profile-trophy.vercel.app/?username=owaisshassan&column=6&margin-w=15&margin-h=15&theme=onedark" alt="owaisshassan" /></a> </p>
