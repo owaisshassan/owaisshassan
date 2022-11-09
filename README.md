@@ -42,6 +42,7 @@
 	<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML&logoColor=white" alt="HTML" />
 	<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" />
 	<img src="https://img.shields.io/badge/Mysql-purple?style=for-the-badge&logo=Mysql&logoColor=white" alt="Mysql"/> 
+	<img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger"/> 
 </p>
 
 <h3 align="left" >My Github overview: </h3>
