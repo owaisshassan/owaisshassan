@@ -29,6 +29,7 @@
 <li>📫</g-emoji> How to reach me <strong><a href="mailto:owaishassan442@gmail.com">owaishassan442@gmail.com</strong>   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270"><img width="15" src="https://camo.githubusercontent.com/f2760989194a129f0a09843268da7b2d0a961b8f641bba2482239f9fed84dc72/68747470733a2f2f692e67696665722e636f6d2f6f726967696e2f62332f62333464633135393261653835353664613933333833356330643533323733385f773230302e77656270" data-canonical-src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp" style="max-width: 100%;"></a></p>
 </li>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/owaiss-hassan/" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/owaiss-hassan/" height="30" width="40" /></a>
