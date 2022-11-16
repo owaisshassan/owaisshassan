@@ -52,6 +52,8 @@
 	<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" alt="CSS" />
 	<img src="https://img.shields.io/badge/Mysql-purple?style=for-the-badge&logo=Mysql&logoColor=white" alt="Mysql"/> 
 	<img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger"/> 
+	<img src="https://img.shields.io/badge/IntelliJ IDEA-blue?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ IDEA"/> 
+	<img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
 </p>
 
 <h3 align="left" >My Github overview: </h3>
