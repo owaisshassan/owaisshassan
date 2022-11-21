@@ -72,7 +72,7 @@
     <tbody>
         <tr>
           <td><a target="_blank"  href="https://github.com/owaisshassan/golden-oven-671"><b> Bus Reservation System Portal</b></a></td>
-          <td><a target="_blank"  href="https://github.com/owaisshassan/golden-oven-671/blob/main/Images/Swagger.jpeg"><b> Swagger Look</b></a></td>
+          <td><a target="_blank"  href="https://drive.google.com/file/d/1aH1L9SR5ZJNe57OoOSJ_ds52NbdjdGfT/view?usp=share_link"><b> Demo Video</b></a></td>
        </tr>
        <tr>
           <td><a target="_blank"  href="https://github.com/Kapil7982/unit3project/tree/main/BeboBeauty"><b> BeautyBebo clone</b></a></td>
