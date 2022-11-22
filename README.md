@@ -54,6 +54,7 @@
 	<img src="https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=Swagger&logoColor=white" alt="Swagger"/> 
 	<img src="https://img.shields.io/badge/IntelliJ IDEA-blue?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white" alt="IntelliJ IDEA"/> 
 	<img src="https://img.shields.io/badge/STS-color?style=for-the-badge&logo=STS&logoColor=white" alt="STS"/>
+	<img src="https://img.shields.io/badge/Lombok-grey?style=for-the-badge&logo=Lombok&logoColor=white" alt="STS"/>
 </p>
 
 <h3 align="left" >My Github overview: </h3>
